@@ -27,3 +27,4 @@ II. Navigation
   ros2 launch turtlebot3_navigation2 navigation2.launch.py \
       use_sim_time:=true \
       map:=/home/anish/my_map.yaml
+<img width="1838" height="1057" alt="Screenshot from 2025-07-21 10-35-04" src="https://github.com/user-attachments/assets/7c6cc1b7-763c-4e64-bab2-5f2d4ee11e4d" />
