@@ -1,0 +1,15 @@
+{
+  "package_name": "slam_toolbox",
+  "non_idl_tuples": [
+    "/home/anish/turtlebot3_ws/src/slam_toolbox:srv/Pause.srv",
+    "/home/anish/turtlebot3_ws/src/slam_toolbox:srv/ClearQueue.srv",
+    "/home/anish/turtlebot3_ws/src/slam_toolbox:srv/ToggleInteractive.srv",
+    "/home/anish/turtlebot3_ws/src/slam_toolbox:srv/Clear.srv",
+    "/home/anish/turtlebot3_ws/src/slam_toolbox:srv/SaveMap.srv",
+    "/home/anish/turtlebot3_ws/src/slam_toolbox:srv/LoopClosure.srv",
+    "/home/anish/turtlebot3_ws/src/slam_toolbox:srv/MergeMaps.srv",
+    "/home/anish/turtlebot3_ws/src/slam_toolbox:srv/AddSubmap.srv",
+    "/home/anish/turtlebot3_ws/src/slam_toolbox:srv/DeserializePoseGraph.srv",
+    "/home/anish/turtlebot3_ws/src/slam_toolbox:srv/SerializePoseGraph.srv"
+  ]
+}
