@@ -1,3 +1,4 @@
+Procedure:
 1. Set the TurtleBot3 Model
   export TURTLEBOT3_MODEL=burger
 
