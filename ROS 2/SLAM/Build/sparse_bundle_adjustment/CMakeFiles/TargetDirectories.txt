@@ -1,0 +1,10 @@
+/home/anish/turtlebot3_ws/build/sparse_bundle_adjustment/CMakeFiles/uninstall.dir
+/home/anish/turtlebot3_ws/build/sparse_bundle_adjustment/CMakeFiles/sparse_bundle_adjustment_uninstall.dir
+/home/anish/turtlebot3_ws/build/sparse_bundle_adjustment/CMakeFiles/sba.dir
+/home/anish/turtlebot3_ws/build/sparse_bundle_adjustment/CMakeFiles/test.dir
+/home/anish/turtlebot3_ws/build/sparse_bundle_adjustment/CMakeFiles/edit_cache.dir
+/home/anish/turtlebot3_ws/build/sparse_bundle_adjustment/CMakeFiles/rebuild_cache.dir
+/home/anish/turtlebot3_ws/build/sparse_bundle_adjustment/CMakeFiles/list_install_components.dir
+/home/anish/turtlebot3_ws/build/sparse_bundle_adjustment/CMakeFiles/install.dir
+/home/anish/turtlebot3_ws/build/sparse_bundle_adjustment/CMakeFiles/install/local.dir
+/home/anish/turtlebot3_ws/build/sparse_bundle_adjustment/CMakeFiles/install/strip.dir
